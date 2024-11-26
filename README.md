@@ -24,3 +24,4 @@ Below is the table of results for the baseline and ablation experiments.
 | HRAGRU-(d)+GRU      | 0.0743  | 0.6735  | 0.6901     | 0.6821   |
 | **HRAGRU**          | **0.0726** | **0.6798** | **0.7028** | **0.6876** |
 
+In the table, (b), (c), and (d) correspond to HTBERT, RMGNN, and AGRU, respectively, while (*) refers to the news extracting module in RMGNN.
